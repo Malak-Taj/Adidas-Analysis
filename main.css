@@ -1,0 +1,22 @@
+input[type=text],input[type=email] , textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+  .contact__button {
+    background-color:#3b0202ee;
+    color: white;
+    padding: 30px 30px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-align: right;
+  }
+  .hover {
+    background-color: #45a049;
+  }
