@@ -8,7 +8,7 @@ from plotly.subplots import make_subplots
 import streamlit as st
 import streamlit.components.v1 as comp
 #Data Preprocessing:
-Adidas = pd.read_csv(r"C:\Users\ooo\OneDrive\Desktop\MidProjectStreamlit\Adidas_cleaned.csv")
+Adidas = pd.read_csv(r"Adidas_cleaned.csv")
 #Some definitions:
 night_colors = ['rgb(56, 75, 126)', 'rgb(18, 36, 37)', 'rgb(34, 53, 101)','rgb(36, 55, 57)', 'rgb(6, 4, 4)']
 blue_colors =  ['cyan','royalblue','darkblue','lightsalmon']
